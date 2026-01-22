@@ -1,0 +1,6 @@
+{
+  "name": "heroes",
+  "description": "Localized and personalized comic book generator",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
